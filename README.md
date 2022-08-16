@@ -7,7 +7,7 @@ This project is a simple application desined to manage a farm with below feature
 
 Main features implemented are;
 - Register the farms. 
-- Register the works.
+- Register the workers.
 - View farms along with workers.
 
 ## Technologies and Services
@@ -19,6 +19,8 @@ Technologies
 ## Requirements 
 - .NET 6
 - Entity Framework Core
+- React version 17.0.2
+- NPM version 8.1.2
 
 ## Installation
 1. Clone the repo and install the dependencies.
